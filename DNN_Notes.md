@@ -48,6 +48,6 @@
 
 ## Tips and tricks for Neural Network Training
 
-## Datascience Questions
+## Quora Session with Yann Lecun and Ian goodwill
 
-* [KDNudgnetts datascience questions](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
+## Generative Adversial Networks (GAN)
