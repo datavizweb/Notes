@@ -1,6 +1,6 @@
 # [Deep Networks with Stochastic Depth](https://arxiv.org/pdf/1603.09382v3.pdf)
 
-> Abstract. Very deep convolutional networks with hundreds of layers
+> Abstract : Very deep convolutional networks with hundreds of layers
 have led to significant reductions in error on competitive benchmarks.
 Although the unmatched expressiveness of the many layers can be highly
 desirable at test time, training very deep networks comes with its own
@@ -57,7 +57,6 @@ the gradients especially in earlier layers during backward propagation
 of networks of different depths, mimicking the record breaking ensemble of depth varying ResNets trained by He et al
   * Similar to Dropout training with stochastic depth acts as a regularizer, even in the presence of Batch Normalization. 
   * On CIFAR-10, depth of a ResNet beyond 1000 layers obtain significant improvements in test error.
- 
 
 * Dropout
  * Reduces co-adaptation
@@ -68,3 +67,5 @@ of networks of different depths, mimicking the record breaking ensemble of depth
   * DropConnect
   * MaxOut
   * DropIn
+
+
