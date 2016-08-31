@@ -12,3 +12,10 @@
 # Variational Auto Encoders
 
 * [Unreasonable confusion of Variational AutoEncoders](https://jaan.io/unreasonable-confusion/)
+
+
+# Graphical Model
+
+* [Bishop Graphical Model 1](http://mlss.tuebingen.mpg.de/2013/bishop_slides.pdf)
+* [Bishop Graphical Model 2](http://www.cs.ucf.edu/~mtappen/cap6412/lecs/graphical_models.pdf)
+* [Machine Learning Summer School 2013](http://webdav.tuebingen.mpg.de/mlss2013/2013/speakers.html)
