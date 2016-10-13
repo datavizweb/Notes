@@ -25,3 +25,8 @@
 
 * [Deep Learning School Day 1](https://www.youtube.com/watch?v=eyovmAtoUx0&feature=youtu.be)
 * [Deep Learning School Day 2](https://www.youtube.com/watch?v=9dXiAecyJrY&feature=youtu.be)
+
+* Back Propagation Derivation
+
+* [Derviation of back propagation](http://briandolhansky.com/blog/2013/9/27/artificial-neural-networks-backpropagation-part-4)
+* [Derivation of back propagation](http://briandolhansky.com/blog/2014/10/30/artificial-neural-networks-matrix-form-part-5)
