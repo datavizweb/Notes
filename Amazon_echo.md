@@ -21,3 +21,18 @@
 * [JHU Workshop] (http://www.clsp.jhu.edu/workshops/16-workshop/building-speech-recognition-system-from-untranscribed-data/)
 * [Ming Sun](https://www.linkedin.com/in/ming-sun-67427728)
 * [Nicho Storm Publications](http://www.nikkostrom.com/publications/)
+
+## Papers
+
+* [Multi-task learning and Weighted Cross-entropy for DNN-based Keyword
+Spotting](http://www.isca-speech.org/archive/Interspeech_2016/pdfs/1485.PDF)
+* [Model compression applied to small-footprint keyword spotting](http://www.isca-speech.org/archive/Interspeech_2016/pdfs/1393.PDF)
+* [Anchored Speech Detection](http://www.isca-speech.org/archive/Interspeech_2016/pdfs/1346.PDF)
+* [LATTICERNN: Recurrent Neural Networks over Lattices](http://isca-speech.org/archive/Interspeech_2016/pdfs/1583.PDF)
+
+## People
+
+Roland Maas, Sree Hari Krishnan Parthasarathi, Brian King, Ruitong Huang, Bjorn Hoffmeister
+George Tucker, Minhua Wu, Ming Sun, Sankaran Panchapagesan, Gengshen Fu, Shiv Vitaladevuni
+Sankaran Panchapagesan, Ming Sun, Aparna Khare, Spyros Matsoukas, Arindam Mandal, Bjorn Hoffmeister, Shiv Vitaladevuni
+Faisal Ladhak, Ankur Gandhe, Markus Dreyer, Lambert Mathias, Ariya Rastrow, Bjorn Hoffmeister
