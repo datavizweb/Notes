@@ -75,5 +75,26 @@
 
 ## [Robust Speech Recognition](http://www.icassp2016.org/Papers/PublicSessionIndex3_MS.asp?Sessionid=1158)
 
-
+## RNN LM
 * [Building an Efficient Neural langauge model](https://research.facebook.com/blog/building-an-efficient-neural-language-model-over-a-billion-words/)
+* [n-gram interpolation with RNN LM](http://mi.eng.cam.ac.uk/~xc257/papers/ASRU2015-Interpolation.pdf)
+> Methods to combine multiple language models had been studied and
+compared in [27, 13, 28]. Most of these techniques are investigated
+on n-gram LMs and their derivations, such as topic based n-gram
+LM and cached based n-gram LM. RNNLMs are inherently different
+from n-gram LMs in terms of their generalisation patterns. For this
+reason, RNNLMs are usually linearly interpolated with n-gram LMs
+to obtain both a good context coverage and strong generalisation [1,
+3, 17, 18, 19, 20]. The interpolated LM probability is given by
+P(wi|h
+i−1
+1
+) = λPNG(wi|h
+i−1
+1
+) + (1 − λ)PRN(wi|h
+i−1
+1
+) (5)
+λ is the global weight of the n-gram LM distribution PNG(·), which
+can be optimized using the EM algorithm on a held-out set.
