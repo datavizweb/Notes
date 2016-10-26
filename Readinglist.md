@@ -75,4 +75,5 @@
 
 ## [Robust Speech Recognition](http://www.icassp2016.org/Papers/PublicSessionIndex3_MS.asp?Sessionid=1158)
 
-*  
+
+* [Building an Efficient Neural langauge model](https://research.facebook.com/blog/building-an-efficient-neural-language-model-over-a-billion-words/)
