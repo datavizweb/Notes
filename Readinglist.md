@@ -31,6 +31,12 @@
 * [Derviation of back propagation](http://briandolhansky.com/blog/2013/9/27/artificial-neural-networks-backpropagation-part-4)
 * [Derivation of back propagation](http://briandolhansky.com/blog/2014/10/30/artificial-neural-networks-matrix-form-part-5)
 
+# Reddit Pages
+* [Machine Learning](https://www.reddit.com/r/MachineLearning/)
+* [Deep Learning](https://www.reddit.com/r/deeplearning/)
+* [Reddit Machine Learning Q&A Thread](https://www.reddit.com/user/feedtheaimbot)
+* [ML Questions](https://www.reddit.com/r/MLQuestions/)
+
 # [Visualize tSNE](http://distill.pub/2016/misread-tsne/)
 
 # [ICASSP 2016](http://www.icassp2016.org/Papers/RegularProgram_MS.asp)
