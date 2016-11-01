@@ -12,6 +12,8 @@
 ** Alexa keyword
 ** Only Alexa, Hey Alexa, Any other keyword (not just alexa)
 * It is worth for music and weather
+* [Buy products](https://www.amazon.com/b/ref=s9_acss_bw_cg_VANS_1a1?node=14552177011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-1&pf_rd_r=A0ACF8CXZPTPG308DHTY&pf_rd_t=101&pf_rd_p=738cf03b-ff35-4203-90e1-7ea3c82203c0&pf_rd_i=14655536011)
+* [Buy products 2](https://www.amazon.com/b?node=14655536011)
 * [ASR NLU Diagram here](http://www.geekwire.com/2016/amazon-ramps-up-recruiting-efforts-for-engineers/)
 * [Mistakes done by Alexa 1](https://www.cnet.com/news/dammit-alexa-i-feel-bad-when-i-yell-at-my-amazon-echo/)
 * [Mistakes done by Alexa 2](https://www.cnet.com/news/why-i-wanted-to-strangle-my-amazon-echo-on-prime-day/)
