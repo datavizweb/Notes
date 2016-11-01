@@ -98,3 +98,9 @@ i−1
 ) (5)
 λ is the global weight of the n-gram LM distribution PNG(·), which
 can be optimized using the EM algorithm on a held-out set.
+
+* [Short science, Hugo](http://www.shortscience.org/user?name=hlarochelle)
+* [Recurrent Highway NEtworks](https://github.com/datavizweb/RecurrentHighwayNetworks)
+* [Higherarchial multischale Recurrent Neural Network](http://openreview.net/pdf?id=S1di0sfgl)
+* [Archive Sanity](http://www.arxiv-sanity.com/)
+* [Building efficeint Neural Langauge model](https://research.facebook.com/blog/building-an-efficient-neural-language-model-over-a-billion-words/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
