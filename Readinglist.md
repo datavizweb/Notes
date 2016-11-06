@@ -104,3 +104,17 @@ can be optimized using the EM algorithm on a held-out set.
 * [Higherarchial multischale Recurrent Neural Network](http://openreview.net/pdf?id=S1di0sfgl)
 * [Archive Sanity](http://www.arxiv-sanity.com/)
 * [Building efficeint Neural Langauge model](https://research.facebook.com/blog/building-an-efficient-neural-language-model-over-a-billion-words/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
+
+
+
+
+# On the fly Vocabulary addition reading list
+
+* [Improved recognition of contact names in voice commands](https://www.google.co.in/search?q=%E2%80%9CImproved+recognition+of+contact+names+in+voice+commands&oq=%E2%80%9CImproved+recognition+of+contact+names+in+voice+commands&aqs=chrome..69i57j0.308j0j7&sourceid=chrome&es_sm=0&ie=UTF-8)
+* [Dynamic Grammars with Lookahead Composition for WFST-based Speech Recognition](http://pallas.gavo.t.u-tokyo.ac.jp/~mine/paper/PDF/2012/INTERSPEECH_1272_t2012-9.pdf)
+* [A Specialized WFST Approach for Class Models and Dynamic Vocabulary](http://www.lvcsr.com/static/pubs/dixon2012specialized.pdf)
+* [Rapid Vocabulary Addition to Context-Dependent Decoder Graphs](http://www.isca-speech.org/archive/interspeech_2015/papers/i15_2112.pdf)
+* [ISCA Online Archive](http://www.isca-speech.org/iscaweb/index.php/archive/online-archive)
+
+# Improving the Language model
+* [Bayesian Language Model Interpolation for Mobile Speech Input](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37567.pdf)
