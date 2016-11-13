@@ -120,4 +120,5 @@ can be optimized using the EM algorithm on a held-out set.
 * [Bayesian Language Model Interpolation for Mobile Speech Input](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37567.pdf)
 
 # ICLR 2017 Submission best papers
-* [ICLR 2017 Submission](http://smerity.com/articles/2016/iclr_2017_submissions.html)
+* [ICLR 2017 Submission discoveries](http://smerity.com/articles/2016/iclr_2017_submissions.html)
+* [ICLR 2017 Submission discoveries NLP](https://amundtveit.com/2016/11/12/deep-learning-for-natural-language-processing-iclr-2017-discoveries/)
