@@ -19,7 +19,7 @@
 * [Mistakes done by Alexa 2](https://www.cnet.com/news/why-i-wanted-to-strangle-my-amazon-echo-on-prime-day/)
 * [Alexa Order product](https://www.cnet.com/news/amazons-alexa-virtual-assistant-can-now-order-millions-of-items/)
 * [Order product 2](http://finance.yahoo.com/news/alexa-prime-day-deals-070000114.html)
-* [Read paper from him](https://scholar.google.com/citations?hl=en&user=zdvyXTsAAAAJ&view_op=list_works&sortby=pubdate)
+* [Read paper](https://scholar.google.com/citations?hl=en&user=zdvyXTsAAAAJ&view_op=list_works&sortby=pubdate)
 * [JHU Workshop] (http://www.clsp.jhu.edu/workshops/16-workshop/building-speech-recognition-system-from-untranscribed-data/)
 * [Ming Sun](https://www.linkedin.com/in/ming-sun-67427728)
 * [Nicho Storm Publications](http://www.nikkostrom.com/publications/)
@@ -38,3 +38,6 @@ Roland Maas, Sree Hari Krishnan Parthasarathi, Brian King, Ruitong Huang, Bjorn 
 George Tucker, Minhua Wu, Ming Sun, Sankaran Panchapagesan, Gengshen Fu, Shiv Vitaladevuni
 Sankaran Panchapagesan, Ming Sun, Aparna Khare, Spyros Matsoukas, Arindam Mandal, Bjorn Hoffmeister, Shiv Vitaladevuni
 Faisal Ladhak, Ankur Gandhe, Markus Dreyer, Lambert Mathias, Ariya Rastrow, Bjorn Hoffmeister
+
+[Alexa Cheatsheet](https://www.bloomberg.com/graphics/2015-cheatsheets/amazon.html)
+[Leadership Principles](https://www.amazon.jobs/principles)
