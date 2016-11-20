@@ -131,6 +131,9 @@ Ziang Xie, Sida I. Wang, Jiwei Li, Daniel Lévy, Aiming Nie, Dan Jurafsky, Andre
 5 Nov 2016ICLR 2017 conference submissionreaders: everyone
 Abstract: Data noising is an effective technique for regularizing neural network models. While noising is widely adopted in application domains such as vision and speech, commonly used noising primitives have not been developed for discrete sequence-level settings such as language modeling. In this paper, we derive a connection between input noising in neural network language models and smoothing in n-gram models. Using this connection, we draw upon ideas from smoothing to develop effective noising schemes. We demonstrate performance gains when applying the proposed schemes to language modeling and machine translation. Finally, we provide empirical analysis validating the relationship between noising and smoothing.
 
+** Comments
+** Read
+
 * [DeepDSL: A Compilation-based Domain-Specific Language for Deep Learning](https://openreview.net/forum?id=Bks8cPcxe)
 Abstract: In recent years, Deep Learning (DL) has found great success in domains such as multimedia understanding. However, the complex nature of multimedia data makes it difficult to develop DL-based software. The state-of-the-art tools, such as Caffe, TensorFlow, Torch7, and CNTK, while are successful in their applicable domains, are programming libraries with 
 fixed user interface, internal representation, and execution environment. This makes it difficult to implement portable and customized DL applications.
@@ -143,6 +146,9 @@ In this paper, we present DeepDSL, a domain specific language (DSL) embedded in 
 
 DeepDSL programs are compiled into compact, efficient, customizable, and portable Java source code, which operates the CUDA and CUDNN interfaces running on Nvidia GPU
 via a Java Native Interface (JNI) library. We evaluated DeepDSL with a number of popular DL networks. While the DeepDSL code is less than 100 lines for each of the network (e.g. Alexnet, GoogleNet, VGG, Overfeat, and Deep Residual Network), the compiled Java programs are highly efficient. Our experiments show that the compiled programs have very competitive runtime performance and memory efficiency compared to the existing libraries.
+
+** Comment
+** Pass
 
 * [Frustratingly Short Attention Spans in Neural Language Modeling](https://openreview.net/forum?id=ByIAPUcee)
 Michał Daniluk, Tim Rocktäschel, Johannes Welbl, Sebastian Riedel
