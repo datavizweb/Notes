@@ -41,3 +41,17 @@ Faisal Ladhak, Ankur Gandhe, Markus Dreyer, Lambert Mathias, Ariya Rastrow, Bjor
 
 [Alexa Cheatsheet](https://www.bloomberg.com/graphics/2015-cheatsheets/amazon.html)
 [Leadership Principles](https://www.amazon.jobs/principles)
+
+## Echo
+
+[Alexa App](https://turbofuture.com/consumer-electronics/The-20-Best-Amazon-Echo-Skills-in-the-Alexa-App)
+* Amazon Echo TV Guide
+Doesn't always understand the command
+It doesn't always get the show you've chosen on the first try because it struggles to differentiate between similar shows.
+
+Stock Exchange
+ Alexa fails to recognize several stocks and letters
+2. The voice recognition is lackluster and frustrating
+
+You have to be very specific with it to understand what you want. 
+To much dependant on selected phrases and words
