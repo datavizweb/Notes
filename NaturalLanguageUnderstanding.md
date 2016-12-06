@@ -96,3 +96,5 @@ Spoken Dialogue Systems
 * [cobotDS : SDS for chat](https://www.cis.upenn.edu/~mkearns/papers/cobotDS.pdf)
 * [SDS Challenges and opportunity : MSR](https://www.microsoft.com/en-us/research/publication/spoken-dialogue-systems-challenges-and-opportunities-for-research-invited-talk/)
 * [POMPD based SDS](http://mi.eng.cam.ac.uk/~sjy/papers/ygtw13.pdf)
+* [Spoken Dialogue Systems 2016](http://cslu.ohsu.edu/~heeman/cs550/)
+
