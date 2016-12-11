@@ -221,3 +221,12 @@ sample quality. Trade-offs between Professor Forcing and Scheduled Sampling are
 discussed. We produce T-SNEs showing that Professor Forcing successfully makes
 the dynamics of the network during training and sampling more similar.
 
+
+## Some resources
+
+* [NYU Statistical and Mathematical Methods](http://www.cims.nyu.edu/~cfgranda/pages/DSGA1002_fall16/index.html)
+* [NYU MS Data Science Course](http://cds.nyu.edu/academics/ms-in-data-science/course-grid/)
+* [Optimization and Computational Linear Algebra for Data Science](http://www.cims.nyu.edu/~bandeira/Fall2016.DS.GA.3001.03.OptCompLinAlgDS.html)
+* [Natural Langauge Understanding with Distribution Representation](https://docs.google.com/document/d/1YS5QRvqMJVs9n3sK5fFjuldY7_vh42C5uUfxUGgL-Gc/edit)
+* [Active Research areas in DL for NLP](https://docs.google.com/presentation/d/1O-Ics69y445aWuxQ_VW6SDvKT9BGl3ZXLLZDG9tUiUY/edit#slide=id.g13c41d274f_0_103)
+
