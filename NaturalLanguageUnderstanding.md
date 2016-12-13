@@ -98,3 +98,16 @@ Spoken Dialogue Systems
 * [POMPD based SDS](http://mi.eng.cam.ac.uk/~sjy/papers/ygtw13.pdf)
 * [Spoken Dialogue Systems 2016](http://cslu.ohsu.edu/~heeman/cs550/)
 
+
+
+# Natural Langauge Understanding
+
+* [Standford NLP Group](http://nlp.stanford.edu/teaching/)
+* [Stanford Course on NLU](http://web.stanford.edu/class/cs224u/)
+** [Course github repo](https://github.com/datavizweb/cs224u)
+** [SIPPYCUP : Semantic Parser](https://github.com/wcmac/sippycup)
+** [SEMPRE : Semantic Parsing with Execution](http://www-nlp.stanford.edu/software/sempre/)
+** [Shallow Semantic Parsing](http://nlp.stanford.edu/projects/shallow-parsing.shtml)
+
+## Inducing grammar rules from data
+* Need to figure out the way it is being done
