@@ -111,3 +111,6 @@ Spoken Dialogue Systems
 
 ## Inducing grammar rules from data
 * Need to figure out the way it is being done
+
+* [Percy Liang ICML NLU Tutorial](http://icml.cc/2015/tutorials/icml2015-nlu-tutorial.pdf)
+* [Online Stanford parser](http://icml.cc/2015/tutorials/icml2015-nlu-tutorial.pdf)
