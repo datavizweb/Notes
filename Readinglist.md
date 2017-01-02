@@ -229,4 +229,8 @@ the dynamics of the network during training and sampling more similar.
 * [Optimization and Computational Linear Algebra for Data Science](http://www.cims.nyu.edu/~bandeira/Fall2016.DS.GA.3001.03.OptCompLinAlgDS.html)
 * [Natural Langauge Understanding with Distribution Representation](https://docs.google.com/document/d/1YS5QRvqMJVs9n3sK5fFjuldY7_vh42C5uUfxUGgL-Gc/edit)
 * [Active Research areas in DL for NLP](https://docs.google.com/presentation/d/1O-Ics69y445aWuxQ_VW6SDvKT9BGl3ZXLLZDG9tUiUY/edit#slide=id.g13c41d274f_0_103)
+* [Progress in Exponential language model](http://cs.nyu.edu/~allauzen/asr15/guest_lecture_3.pdf)
+* [Advance topics in language model](http://cs.nyu.edu/~allauzen/asr15/guest_lecture_1.pdf)
+* [asr nyc wfst](http://cs.nyu.edu/~allauzen/asr15/)
+* [Statistical Natural Language Processing](http://cs.nyu.edu/courses/fall11/CSCI-GA.3033-001/)
 
