@@ -5,3 +5,5 @@
 *** z-norm of the input to the neuron (non-linearity)
 ** Sorta graph
 *** give shorter data minibatch first and longer data laters
+
+* [General Deep Learning](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)

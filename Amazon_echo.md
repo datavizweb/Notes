@@ -55,3 +55,17 @@ Stock Exchange
 
 You have to be very specific with it to understand what you want. 
 To much dependant on selected phrases and words
+
+# Recent Buying products through Alexa
+* [Amazon Alexa link](https://www.amazon.com/Alexas-G/b?ie=UTF8&node=14655536011&tag=money0b40-20)
+* [Order item using Alexa](https://www.amazon.com/gp/help/customer/display.html?nodeId=201807230)
+
+
+# Languae Models
+
+* [Learning Sub-Word Units for Open Vocabulary Speech Recognition](http://www.aclweb.org/anthology/P11-1072)
+* [Practical and Efficient Incorporation of Syntactic Features into Statistical Language Models](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.310.8508&rep=rep1&type=pdf)
+* [Will We Ever Really Replace the N-gram Model? On the Future of Language Modeling for HLT](http://s3.amazonaws.com/academia.edu.documents/30764158/W12-27.pdf?AWSAccessKeyId=AKIAJ56TQJRTWSMTNPEA&Expires=1483864501&Signature=%2Fcn8vxueh%2FIdmomBdjPcvOJdX5o%3D&response-content-disposition=inline%3B%20filename%3DRevisiting_the_Case_for_Explicit_Syntact.pdf#page=60)
+* [Fast Syntactic Analysis for Statistical Language Modeling via Substructure Sharing and Uptraining](http://www.aclweb.org/old_anthology/P/P12/P12-1019.pdf)
+* [Sub-Lexical and Contextual Modeling of Out-of-Vocabulary Words in Speech Recognition](http://mahe.ece.jhu.edu/uploads/publications/papers/14669_slides.pdf)
+
