@@ -69,3 +69,13 @@ To much dependant on selected phrases and words
 * [Fast Syntactic Analysis for Statistical Language Modeling via Substructure Sharing and Uptraining](http://www.aclweb.org/old_anthology/P/P12/P12-1019.pdf)
 * [Sub-Lexical and Contextual Modeling of Out-of-Vocabulary Words in Speech Recognition](http://mahe.ece.jhu.edu/uploads/publications/papers/14669_slides.pdf)
 
+
+
+# Dr. Yotaro Kubo
+
+* [Personal Website](http://yota.ro/)
+
+# Dr. Fabian Triefenbach 
+
+* [Publication list 1](https://www.researchgate.net/profile/Fabian_Triefenbach)
+* [Publication list 2](http://dblp.uni-trier.de/pers/hd/t/Triefenbach:Fabian)
