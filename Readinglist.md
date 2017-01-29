@@ -234,3 +234,6 @@ the dynamics of the network during training and sampling more similar.
 * [asr nyc wfst](http://cs.nyu.edu/~allauzen/asr15/)
 * [Statistical Natural Language Processing](http://cs.nyu.edu/courses/fall11/CSCI-GA.3033-001/)
 
+
+## Interspeech Reading list
+ * [MIT Reading group](https://drive.google.com/file/d/0BwrtKEdpd7B_VnRfQ3RsbkVqeVE/view)
