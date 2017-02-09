@@ -237,3 +237,8 @@ the dynamics of the network during training and sampling more similar.
 
 ## Interspeech Reading list
  * [MIT Reading group](https://drive.google.com/file/d/0BwrtKEdpd7B_VnRfQ3RsbkVqeVE/view)
+
+
+```tex
+\sum_{x=0}^n f(x)
+```
