@@ -8,4 +8,4 @@
 * Does it work ?
 * Is it worth it ?
 
-[![Procastination Originas Adam Grant](http://img.youtube.com/vi/7sxpKhIbr0E/0.jpg)](https://www.youtube.com/watch?v=fxbCHn6gE3U)
+[![Procastination Originas Adam Grant](http://img.youtube.com/vi/fxbCHn6gE3U/0.jpg)](https://www.youtube.com/watch?v=fxbCHn6gE3U)
