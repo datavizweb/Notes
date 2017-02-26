@@ -79,3 +79,16 @@ To much dependant on selected phrases and words
 
 * [Publication list 1](https://www.researchgate.net/profile/Fabian_Triefenbach)
 * [Publication list 2](http://dblp.uni-trier.de/pers/hd/t/Triefenbach:Fabian)
+
+
+* 10.30 AM to 11.30 AM – with Sri Garimella, generanl machine learning, 
+* 11.30 AM to 12.30 PM – with Frederick Weber  : coding , algo, prob solving
+* 1.00 PM to 2.00 PM – Research Talk
+* 2.30 PM to 3.30 PM – with Reinhard Kneser  : Domain, LM, NLU
+* 3.30 PM to 4.30 PM – with Thomas Drugman, applied, macine learning, Data Driven Learning
+* 4.30 PM to 5.30 PM – with Simon Wiesler : Genearl probl, algorim, ambiguity, ml
+
+* How to Add Word Classes to the Kaldi Speech Recognition Toolkit
+* https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2016/Horndasch16-HTA.pdf
+* https://sourceforge.net/p/kaldi/discussion/1355348/thread/c7c5e4f6/
+

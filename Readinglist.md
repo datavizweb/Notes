@@ -242,3 +242,10 @@ the dynamics of the network during training and sampling more similar.
 ```tex
 \sum_{x=0}^n f(x)
 ```
+
+http://sebastianruder.com/word-embeddings-softmax/index.html#cnnsoftmax
+
+http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+
+smoothing explained
+http://www.statmt.org/book/slides/07-language-models.pdf
