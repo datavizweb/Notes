@@ -233,7 +233,8 @@ the dynamics of the network during training and sampling more similar.
 * [Advance topics in language model](http://cs.nyu.edu/~allauzen/asr15/guest_lecture_1.pdf)
 * [asr nyc wfst](http://cs.nyu.edu/~allauzen/asr15/)
 * [Statistical Natural Language Processing](http://cs.nyu.edu/courses/fall11/CSCI-GA.3033-001/)
-
+* [N-Gram Backoff Derivation](https://cxwangyi.wordpress.com/2010/07/28/backoff-in-n-gram-language-models/)
+* [MT book by Philip : some smoothing explained](http://www.statmt.org/book/slides/07-language-models.pdf)
 
 ## Interspeech Reading list
  * [MIT Reading group](https://drive.google.com/file/d/0BwrtKEdpd7B_VnRfQ3RsbkVqeVE/view)
@@ -247,5 +248,4 @@ http://sebastianruder.com/word-embeddings-softmax/index.html#cnnsoftmax
 
 http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 
-smoothing explained
-http://www.statmt.org/book/slides/07-language-models.pdf
+
