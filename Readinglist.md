@@ -235,6 +235,7 @@ the dynamics of the network during training and sampling more similar.
 * [Statistical Natural Language Processing](http://cs.nyu.edu/courses/fall11/CSCI-GA.3033-001/)
 * [N-Gram Backoff Derivation](https://cxwangyi.wordpress.com/2010/07/28/backoff-in-n-gram-language-models/)
 * [MT book by Philip : some smoothing explained](http://www.statmt.org/book/slides/07-language-models.pdf)
+* [Emperical Observation, cache lm, class lm](http://ssli.ee.washington.edu/WS07/notes/ngrams.pdf)
 
 ## Interspeech Reading list
  * [MIT Reading group](https://drive.google.com/file/d/0BwrtKEdpd7B_VnRfQ3RsbkVqeVE/view)
